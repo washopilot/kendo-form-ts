@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import '@progress/kendo-theme-default/dist/all.css';
 import './App.css';
 
 class App extends Component {
